@@ -1,0 +1,13 @@
+A number is called lucky if it consists only of digits 4 and 7. For example, 44, 747, 4 are lucky numbers, and 745, 423, 111 are not. Your task is to find the smallest lucky number in range [L, R] , and if there is none you should return -1.
+
+ 
+Example: For L = 1 and R = 2 the output should be -1. For L = 4 and R = 7 the output should be 4.
+
+ 
+
+Input 1 (L) → integer :
+0 ≤ L ≤ R ≤ 10^5
+
+Input 2 (R) → integer :
+Output → integer :
+The smallest lucky number from the given range.
